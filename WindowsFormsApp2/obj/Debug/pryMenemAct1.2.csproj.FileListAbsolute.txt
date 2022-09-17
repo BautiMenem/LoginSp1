@@ -7,3 +7,6 @@ C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\p
 C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\pryMenemAct1.2.csproj.CoreCompileInputs.cache
 C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
