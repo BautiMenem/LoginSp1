@@ -10,3 +10,20 @@ C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\W
 C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
 C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
 C:\Users\Lucas Franco\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\pryMenemAct1.2.csproj.AssemblyReference.cache
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\pryMenemAct1.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmComparacion.resources
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\pryMenemAct1.2.csproj.GenerateResource.cache
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\pryMenemAct1.2.csproj.CoreCompileInputs.cache
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmInicio.resources
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmLogin.resources
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmAdm.resources
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmCom.resources
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmSist.resources
+C:\Users\54351\Source\Repos\NewRepo\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmVta.resources
